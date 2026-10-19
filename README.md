@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Lama 👋
 
-<!--
-**lamajaz/lamajaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Public health × data science. MPH in health equity (Boston University), now completing a Master's in Data Science at Universidad Complutense de Madrid.
 
-Here are some ideas to get you started:
+📊 [Data Science Portfolio](https://github.com/lamajaz/data-science-portfolio), projects from my master's:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Smoking and lung cancer mortality in Spain: Python, interactive dashboard
+- Child and perinatal mortality in Venezuela: MongoDB
+- Predicting broken water pumps in Tanzania: machine learning
+- Blood pressure, cholesterol and an antihypertensive drug: statistics
+- Data mining on employee salaries: regression, factor analysis, clustering
+
+## 🛠️ Tools
+
+Python (pandas, scikit-learn, statsmodels, matplotlib) · SQL · MongoDB · Tableau · Excel
+
+## 🌍 Languages
+
+English · Spanish · Arabic · French
+
+## 📫 Connect
+
+[Website](WEBSITE-LINK) · [LinkedIn](https://www.linkedin.com/in/lamajaberaz)
+
+📍 Madrid
