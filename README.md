@@ -20,6 +20,6 @@ English · Spanish · Arabic · French
 
 ## 📫 Connect
 
-[Website](WEBSITE-LINK) · [LinkedIn](https://www.linkedin.com/in/lamajaberaz)
+[Website](https://lamajaz.github.io/) · [LinkedIn](https://www.linkedin.com/in/lamajaberaz)
 
 📍 Madrid
